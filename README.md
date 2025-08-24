@@ -7,3 +7,10 @@ A simple webapp to bid on products. Features include:
 - CMS
 
 What makes this product special is that it uses some frameworks/libraries that I don't use in my other repositories. Both the frontend and the backend use NodeJS. The backend uses Express and can be accessed using a REST API. The frontend styles the pages using Svelte and is "build" using Rollup. Authentication is done using JWT.
+
+**Active Development:** <br>
+**Last Change:** <br>
+
+| | |
+| :---: | :---: |
+| ![](/Screenshots/.png) | ![](/Screenshots/.png) |
