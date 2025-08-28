@@ -16,3 +16,4 @@ What makes this product special is that it uses some frameworks/libraries that I
 | ![](/Screenshots/1-Auctions.png) | ![](/Screenshots/2-Admin.png) |
 | ![](/Screenshots/3-Bid.png) | ![](/Screenshots/4-Bid_Placed.png) |
 | ![](/Screenshots/5-Register.png) | ![](/Screenshots/.png) |
+ 
